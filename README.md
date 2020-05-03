@@ -10,7 +10,3 @@ El tamaño máximo del archivo es de 25mb, los archivos de autoCAD no suelen pes
 
 Solo tienes que darle a subir archivo y arrastrarlo dentro del rectángulo. Yo me encargaré de colocar todas las piezas para que quede
 bonito. 
-
-IMPORTANTE:   Debes hacer la vista base de todas las piezas que te hayan tocado en la pestaña de presentación. Hacer un cuadro
-de rotulación como el que hicimos los primeros días de clase. Debes incluir tu nombre, las piezas que conforman tu dibujo en una tabla.
-El dibujo debe contener las vistas necesarias para definir bien la pieza. Haz cortes SI HACE FALTA. 
