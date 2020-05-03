@@ -8,5 +8,4 @@ Sube tus archivos para el trabajo de nuestro grupo de Expresión Gráfica
 Cada uno tiene una carpeta con su nombre donde debe subir su .dwg o .step 
 El tamaño máximo del archivo es de 25mb, los archivos de autoCAD no suelen pesar tanto asi que bien. 
 
-Solo tienes que darle a subir archivo y arrastrarlo dentro del rectángulo. Yo me encargaré de colocar todas las piezas para que quede
-bonito. 
+Yo me encargaré de colocar todas las piezas para que quede todo bonito y kebab. 
