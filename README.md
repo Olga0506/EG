@@ -9,3 +9,5 @@ Cada uno tiene una carpeta con su nombre donde debe subir su .dwg o .step
 El tamaño máximo del archivo es de 25mb, los archivos de autoCAD no suelen pesar tanto asi que bien. 
 
 Yo me encargaré de colocar todas las piezas para que quede todo bonito y kebab. 
+
+Os agradecería que hicierais también el dibujo 2D, las vistas de vuestras piezas.
